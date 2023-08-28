@@ -1,5 +1,4 @@
-# projks
-
+# Client part of taskmanager Web-aplication
 ## Project setup
 ```
 npm install
